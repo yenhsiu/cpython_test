@@ -1,0 +1,7 @@
+app/__init__.cpython-38-x86_64-linux-gnu.so,sha256=zAQM1yZURwhGrO-a_RYvlkMyj4V4ZjMJy5tLSjCKZCI,75048
+app/core.cpython-38-x86_64-linux-gnu.so,sha256=Q9zWY1jjQ1sbqDnadyg1NxMr9vlzLmSn3_TVKzQ7240,145464
+app/main.py,sha256=esXwYuQPS3FPelQhPIxyPdMewdnEUIFBiKsP_Mokgpw,69
+app-0.1.0.dist-info/METADATA,sha256=7njRV9HaZ0pdcYxDOGWv4mHdMWEdO7lTLhTtnKsdlIU,48
+app-0.1.0.dist-info/WHEEL,sha256=CAuuk_9zz9TklvSaKKuyDpVMPSzU9xWV6t1vK7KC7-A,103
+app-0.1.0.dist-info/top_level.txt,sha256=io9g7LCbfmTG1SFKgEOGXmCFB9uMP2H5lerm0HiHWQE,4
+app-0.1.0.dist-info/RECORD,,
